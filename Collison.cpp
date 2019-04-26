@@ -1,3 +1,4 @@
+//Author Jonathan Leung
 #include "stdafx.h"
 #include "Collision.h"
 #include "SceneManager.h"
